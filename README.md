@@ -2,7 +2,6 @@
 ## Summary
 This python package guess the country of a subject text, name or list based on places names frequencies.
 It works in any languages/alphabet.
-
 ## Warning
 Originally, this library was made to be used with a list of places extracted with an NER program such as *Spacy*.
 
@@ -33,3 +32,6 @@ self.assertEqual(result[0], "Russia")
 ```
 
 If no country is found, the first result in the list will be "Unknown"
+
+## Data Sources
+The date sources come from the GeoNames Database: https://www.geonames.org/
