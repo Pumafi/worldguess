@@ -13,19 +13,19 @@ It is also still a work in progress. I did this in my internship, to quickly ide
 ## Usage
 
 *With a list:*
-'''
+```python
 wg = WorldGuesser()
 text = ["London", "Manchester", "UK", "BRISTOL", "Scotland", "Berlin"]
 result = wg.from_list(text)
 self.assertEqual(result[0], "United Kingdom")
-'''
+```
 
 *With a name:*
-'''
+```python
 wg = WorldGuesser()
 text = "санкт-петербург"
 result = wg.from_place(text)
 self.assertEqual(result[0], "Russia")
-'''
+```
 
 If no country is found, the first result in the list will be "Unknown"
