@@ -1,0 +1,253 @@
+ISO;country;neighbours
+AD;Andorra;Spain,France
+AE;United Arab Emirates;Saudi Arabia,Oman
+AF;Afghanistan;Turkmenistan,China,Iran,Tajikistan,Pakistan,Uzbekistan
+AG;Antigua and Barbuda;
+AI;Anguilla;
+AL;Albania;North Macedonia,Greece,Montenegro,Serbia,Kosovo
+AM;Armenia;Georgia,Iran,Azerbaijan,Turkey
+AO;Angola;Democratic Republic of the Congo,Zambia,Republic of the Congo
+AQ;Antarctica;
+AR;Argentina;Chile,Bolivia,Uruguay,Paraguay,Brazil
+AS;American Samoa;
+AT;Austria;Switzerland,Germany,Hungary,Slovakia,Czechia,Italy,Slovenia,Liechtenstein
+AU;Australia;
+AW;Aruba;
+AX;Aland Islands;
+AZ;Azerbaijan;Georgia,Iran,Armenia,Turkey,Russia
+BA;Bosnia and Herzegovina;Croatia,Montenegro,Serbia
+BB;Barbados;
+BD;Bangladesh;Myanmar,India
+BE;Belgium;Germany,Netherlands,Luxembourg,France
+BF;Burkina Faso;Niger,Benin,Ghana,Ivory Coast,Togo,Mali
+BG;Bulgaria;North Macedonia,Greece,Romania,Turkey,Serbia
+BH;Bahrain;
+BI;Burundi;Tanzania,Democratic Republic of the Congo,Rwanda
+BJ;Benin;Niger,Togo,Burkina Faso,Nigeria
+BL;Saint Barthelemy;
+BM;Bermuda;
+BN;Brunei;Malaysia
+BO;Bolivia;Peru,Chile,Paraguay,Brazil,Argentina
+BQ;Bonaire, Saint Eustatius and Saba ;
+BR;Brazil;Suriname,Peru,Bolivia,Uruguay,Guyana,Paraguay,French Guiana,Venezuela,Colombia,Argentina
+BS;Bahamas;
+BT;Bhutan;China,India
+BV;Bouvet Island;
+BW;Botswana;Zimbabwe,South Africa
+BY;Belarus;Poland,Lithuania,Ukraine,Russia,Latvia
+BZ;Belize;Guatemala,Mexico
+CA;Canada;United States
+CC;Cocos Islands;
+CD;Democratic Republic of the Congo;Tanzania,Central African Republic,South Sudan,Rwanda,Zambia,Burundi,Uganda,Republic of the Congo,Angola
+CF;Central African Republic;Chad,Sudan,Democratic Republic of the Congo,South Sudan,Cameroon,Republic of the Congo
+CG;Republic of the Congo;Central African Republic,Gabon,Democratic Republic of the Congo,Cameroon,Angola
+CH;Switzerland;Germany,Italy,Liechtenstein,France,Austria
+CI;Ivory Coast;Liberia,Ghana,Guinea,Burkina Faso,Mali
+CK;Cook Islands;
+CL;Chile;Peru,Bolivia,Argentina
+CM;Cameroon;Chad,Central African Republic,Gabon,Equatorial Guinea,Republic of the Congo,Nigeria
+CN;China;Laos,Bhutan,Tajikistan,Kazakhstan,Mongolia,Afghanistan,Nepal,Myanmar,Kyrgyzstan,Pakistan,North Korea,Russia,Vietnam,India
+CO;Colombia;Ecuador,Peru,Panama,Brazil,Venezuela
+CR;Costa Rica;Panama,Nicaragua
+CU;Cuba;United States
+CV;Cabo Verde;
+CW;Curacao;
+CX;Christmas Island;
+CY;Cyprus;
+CZ;Czechia;Poland,Germany,Slovakia,Austria
+DE;Germany;Switzerland,Poland,Netherlands,Denmark,Belgium,Czechia,Luxembourg,France,Austria
+DJ;Djibouti;Eritrea,Ethiopia,Somalia
+DK;Denmark;Germany
+DM;Dominica;
+DO;Dominican Republic;Haiti
+DZ;Algeria;Niger,Western Sahara,Libya,Mauritania,Tunisia,Morocco,Mali
+EC;Ecuador;Peru,Colombia
+EE;Estonia;Russia,Latvia
+EG;Egypt;Libya,Sudan,Israel,Palestinian Territory
+EH;Western Sahara;Algeria,Mauritania,Morocco
+ER;Eritrea;Ethiopia,Sudan,Djibouti
+ES;Spain;Andorra,Portugal,Gibraltar,France,Morocco
+ET;Ethiopia;Eritrea,Kenya,Sudan,South Sudan,Somalia,Djibouti
+FI;Finland;Norway,Russia,Sweden
+FJ;Fiji;
+FK;Falkland Islands;
+FM;Micronesia;
+FO;Faroe Islands;
+FR;France;Switzerland,Germany,Belgium,Luxembourg,Italy,Andorra,Monaco,Spain
+GA;Gabon;Cameroon,Equatorial Guinea,Republic of the Congo
+GB;United Kingdom;Ireland
+GD;Grenada;
+GE;Georgia;Armenia,Azerbaijan,Turkey,Russia
+GF;French Guiana;Suriname,Brazil
+GG;Guernsey;
+GH;Ghana;Ivory Coast,Togo,Burkina Faso
+GI;Gibraltar;Spain
+GL;Greenland;
+GM;Gambia;Senegal
+GN;Guinea;Liberia,Senegal,Sierra Leone,Ivory Coast,Guinea-Bissau,Mali
+GP;Guadeloupe;
+GQ;Equatorial Guinea;Gabon,Cameroon
+GR;Greece;Albania,North Macedonia,Turkey,Bulgaria
+GS;South Georgia and the South Sandwich Islands;
+GT;Guatemala;Mexico,Honduras,Belize,El Salvador
+GU;Guam;
+GW;Guinea-Bissau;Senegal,Guinea
+GY;Guyana;Suriname,Brazil,Venezuela
+HK;Hong Kong;
+HM;Heard Island and McDonald Islands;
+HN;Honduras;Guatemala,Nicaragua,El Salvador
+HR;Croatia;Hungary,Slovenia,Bosnia and Herzegovina,Montenegro,Serbia
+HT;Haiti;Dominican Republic
+HU;Hungary;Slovakia,Slovenia,Romania,Ukraine,Croatia,Austria,Serbia
+ID;Indonesia;Papua New Guinea,Timor Leste,Malaysia
+IE;Ireland;United Kingdom
+IL;Israel;Syria,Jordan,Lebanon,Egypt,Palestinian Territory
+IM;Isle of Man;
+IN;India;China,Nepal,Myanmar,Bhutan,Pakistan,Bangladesh
+IO;British Indian Ocean Territory;
+IQ;Iraq;Syria,Saudi Arabia,Iran,Jordan,Turkey,Kuwait
+IR;Iran;Turkmenistan,Afghanistan,Iraq,Armenia,Pakistan,Azerbaijan,Turkey
+IS;Iceland;
+IT;Italy;Switzerland,Vatican,Slovenia,San Marino,France,Austria
+JE;Jersey;
+JM;Jamaica;
+JO;Jordan;Syria,Saudi Arabia,Iraq,Israel,Palestinian Territory
+JP;Japan;
+KE;Kenya;Ethiopia,Tanzania,South Sudan,Somalia,Uganda
+KG;Kyrgyzstan;China,Tajikistan,Uzbekistan,Kazakhstan
+KH;Cambodia;Laos,Thailand,Vietnam
+KI;Kiribati;
+KM;Comoros;
+KN;Saint Kitts and Nevis;
+KP;North Korea;China,South Korea,Russia
+KR;South Korea;North Korea
+XK;Kosovo;Serbia,Albania,North Macedonia,Montenegro
+KW;Kuwait;Saudi Arabia,Iraq
+KY;Cayman Islands;
+KZ;Kazakhstan;Turkmenistan,China,Kyrgyzstan,Uzbekistan,Russia
+LA;Laos;China,Myanmar,Cambodia,Thailand,Vietnam
+LB;Lebanon;Syria,Israel
+LC;Saint Lucia;
+LI;Liechtenstein;Switzerland,Austria
+LK;Sri Lanka;
+LR;Liberia;Sierra Leone,Ivory Coast,Guinea
+LS;Lesotho;South Africa
+LT;Lithuania;Poland,Belarus,Russia,Latvia
+LU;Luxembourg;Germany,Belgium,France
+LV;Latvia;Lithuania,Estonia,Belarus,Russia
+LY;Libya;Chad,Niger,Algeria,Sudan,Tunisia,Egypt
+MA;Morocco;Algeria,Western Sahara,Spain
+MC;Monaco;France
+MD;Moldova;Romania,Ukraine
+ME;Montenegro;Albania,Croatia,Bosnia and Herzegovina,Serbia,Kosovo
+MF;Saint Martin;Sint Maarten
+MG;Madagascar;
+MH;Marshall Islands;
+MK;North Macedonia;Albania,Greece,Bulgaria,Serbia,Kosovo
+ML;Mali;Senegal,Niger,Algeria,Ivory Coast,Guinea,Mauritania,Burkina Faso
+MM;Myanmar;China,Laos,Thailand,Bangladesh,India
+MN;Mongolia;China,Russia
+MO;Macao;
+MP;Northern Mariana Islands;
+MQ;Martinique;
+MR;Mauritania;Senegal,Algeria,Western Sahara,Mali
+MS;Montserrat;
+MT;Malta;
+MU;Mauritius;
+MV;Maldives;
+MW;Malawi;Tanzania,Mozambique,Zambia
+MX;Mexico;Guatemala,United States,Belize
+MY;Malaysia;Brunei,Thailand,Indonesia
+MZ;Mozambique;Zimbabwe,Tanzania,Eswatini,South Africa,Zambia,Malawi
+;Namibia;South Africa,Botswana,Zambia,Angola
+NC;New Caledonia;
+NE;Niger;Chad,Benin,Algeria,Libya,Burkina Faso,Nigeria,Mali
+NF;Norfolk Island;
+NG;Nigeria;Chad,Niger,Benin,Cameroon
+NI;Nicaragua;Costa Rica,Honduras
+NL;Netherlands;Germany,Belgium
+NO;Norway;Finland,Russia,Sweden
+NP;Nepal;China,India
+NR;Nauru;
+NU;Niue;
+NZ;New Zealand;
+OM;Oman;Saudi Arabia,Yemen,United Arab Emirates
+PA;Panama;Costa Rica,Colombia
+PE;Peru;Ecuador,Chile,Bolivia,Brazil,Colombia
+PF;French Polynesia;
+PG;Papua New Guinea;Indonesia
+PH;Philippines;
+PK;Pakistan;China,Afghanistan,Iran,India
+PL;Poland;Germany,Lithuania,Slovakia,Czechia,Belarus,Ukraine,Russia
+PM;Saint Pierre and Miquelon;
+PN;Pitcairn;
+PR;Puerto Rico;
+PS;Palestinian Territory;Jordan,Israel,Egypt
+PT;Portugal;Spain
+PW;Palau;
+PY;Paraguay;Bolivia,Brazil,Argentina
+QA;Qatar;Saudi Arabia
+RE;Reunion;
+RO;Romania;Moldova,Hungary,Ukraine,Bulgaria,Serbia
+RS;Serbia;Albania,Hungary,North Macedonia,Romania,Croatia,Bosnia and Herzegovina,Bulgaria,Montenegro,Kosovo
+RU;Russia;Georgia,China,Belarus,Ukraine,Kazakhstan,Latvia,Poland,Estonia,Lithuania,Finland,Mongolia,Norway,Azerbaijan,North Korea
+RW;Rwanda;Tanzania,Democratic Republic of the Congo,Burundi,Uganda
+SA;Saudi Arabia;Qatar,Oman,Iraq,Yemen,Jordan,United Arab Emirates,Kuwait
+SB;Solomon Islands;
+SC;Seychelles;
+SD;Sudan;South Sudan,Chad,Egypt,Ethiopia,Eritrea,Libya,Central African Republic
+SS;South Sudan;Democratic Republic of the Congo,Central African Republic,Ethiopia,Kenya,Sudan,Uganda
+SE;Sweden;Norway,Finland
+SG;Singapore;
+SH;Saint Helena;
+SI;Slovenia;Hungary,Italy,Croatia,Austria
+SJ;Svalbard and Jan Mayen;
+SK;Slovakia;Poland,Hungary,Czechia,Ukraine,Austria
+SL;Sierra Leone;Liberia,Guinea
+SM;San Marino;Italy
+SN;Senegal;Guinea,Mauritania,Guinea-Bissau,Gambia,Mali
+SO;Somalia;Ethiopia,Kenya,Djibouti
+SR;Suriname;Guyana,Brazil,French Guiana
+ST;Sao Tome and Principe;
+SV;El Salvador;Guatemala,Honduras
+SX;Sint Maarten;Saint Martin
+SY;Syria;Iraq,Jordan,Israel,Turkey,Lebanon
+SZ;Eswatini;South Africa,Mozambique
+TC;Turks and Caicos Islands;
+TD;Chad;Niger,Libya,Central African Republic,Sudan,Cameroon,Nigeria
+TF;French Southern Territories;
+TG;Togo;Benin,Ghana,Burkina Faso
+TH;Thailand;Laos,Myanmar,Cambodia,Malaysia
+TJ;Tajikistan;China,Afghanistan,Kyrgyzstan,Uzbekistan
+TK;Tokelau;
+TL;Timor Leste;Indonesia
+TM;Turkmenistan;Afghanistan,Iran,Uzbekistan,Kazakhstan
+TN;Tunisia;Algeria,Libya
+TO;Tonga;
+TR;Turkey;Syria,Georgia,Iraq,Iran,Greece,Armenia,Azerbaijan,Bulgaria
+TT;Trinidad and Tobago;
+TV;Tuvalu;
+TW;Taiwan;
+TZ;Tanzania;Mozambique,Kenya,Democratic Republic of the Congo,Rwanda,Zambia,Burundi,Uganda,Malawi
+UA;Ukraine;Poland,Moldova,Hungary,Slovakia,Belarus,Romania,Russia
+UG;Uganda;Tanzania,Kenya,South Sudan,Democratic Republic of the Congo,Rwanda
+UM;United States Minor Outlying Islands;
+US;United States;Canada,Mexico,Cuba
+UY;Uruguay;Brazil,Argentina
+UZ;Uzbekistan;Turkmenistan,Afghanistan,Kyrgyzstan,Tajikistan,Kazakhstan
+VA;Vatican;Italy
+VC;Saint Vincent and the Grenadines;
+VE;Venezuela;Guyana,Brazil,Colombia
+VG;British Virgin Islands;
+VI;U.S. Virgin Islands;
+VN;Vietnam;China,Laos,Cambodia
+VU;Vanuatu;
+WF;Wallis and Futuna;
+WS;Samoa;
+YE;Yemen;Saudi Arabia,Oman
+YT;Mayotte;
+ZA;South Africa;Zimbabwe,Eswatini,Mozambique,Botswana,Lesotho
+ZM;Zambia;Zimbabwe,Tanzania,Mozambique,Democratic Republic of the Congo,Malawi,Angola
+ZW;Zimbabwe;South Africa,Mozambique,Botswana,Zambia
+CS;Serbia and Montenegro;Albania,Hungary,North Macedonia,Romania,Croatia,Bosnia and Herzegovina,Bulgaria
+AN;Netherlands Antilles;Guadeloupe
