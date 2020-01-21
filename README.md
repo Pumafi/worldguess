@@ -12,6 +12,8 @@ It is also possible to use it on a text, but the precision is not very good, as 
 
 It is also still a work in progress. I did this in my internship, to quickly identify and classify documents according to  countries.
 
+It is an easy way to identify the source country of an news article for example, and automatically tag the country.
+
 ## Usage
 
 *With a list:*
