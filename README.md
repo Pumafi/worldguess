@@ -9,7 +9,7 @@ Originally, this library was made to be used with a list of places extracted wit
 
 It is also possible to use it on a text, but the precision is not very good, as some words in a language correspond to a place in another language.
 
-It is also still a work in progress. I did this in my internship, to quickly identify and classify documents according to  countries.
+It is also still a work in progress. I did a version of this library in an old internship, to quickly identify and classify documents according to  countries, and thought it was a cool tool to share, so I remade it from scratch at home recently.
 
 It is an easy way to identify the source country of an news article for example, and automatically tag the country.
 
