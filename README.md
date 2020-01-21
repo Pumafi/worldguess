@@ -5,7 +5,9 @@ It works in any languages/alphabet.
 
 ## Warning
 Originally, this library was made to be used with a list of places extracted with an NER program such as *Spacy*.
+
 *I heavely recommend using it that way.*
+
 It is also possible to use it on a text, but the precision is not very good, as some words in a language correspond to a place in another language.
 
 It is also still a work in progress. I did this in my internship, to quickly identify and classify documents according to  countries.
